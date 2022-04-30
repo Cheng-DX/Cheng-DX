@@ -6,8 +6,12 @@
 
 <div align=center>
    <div>
-      <img style="height: 10rem;margin-right: 60px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheng-DX&layout=compact&theme=prussian&hide=html,css" alt="langs" />
-      <img style="height: 10rem" src="https://github-readme-stats.vercel.app/api?username=Cheng-DX&show_icons=true&theme=prussian&hide=issues&count_private=true" alt="states" />
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+         <img style="height: 10rem;margin-right: 60px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheng-DX&layout=compact&theme=prussian&hide=html,css" alt="langs" />
+      </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+         <img style="height: 10rem" src="https://github-readme-stats.vercel.app/api?username=Cheng-DX&show_icons=true&theme=prussian&hide=issues&count_private=true" alt="states" />
+      </a>
    </div>
 </div>
 
